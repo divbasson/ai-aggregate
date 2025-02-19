@@ -1,0 +1,8 @@
+FastAPI
+uvicorn
+httpx
+pydantic
+python-dotenv
+requests
+tailwindcss
+framer-motion
